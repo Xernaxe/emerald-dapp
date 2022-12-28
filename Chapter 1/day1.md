@@ -8,11 +8,11 @@
  A Smart Contract is a program that is stored on the blockchain, therefore other users can interact with it. It will only run if the conditions that are defined in that specific smart contract are met.
 
 **3. Explain the difference between a script and a transaction.**<br/>
- Scripts are used in order to view the already existing data on the blockchain, they do not cost any money.
+ Scripts are used in order to view the already existing data on the blockchain, they do not cost any money.<br/>
  Transactions are used to change data on the blockchain. The cost of a transaction is specific to the blockchain you are using.
 
 
 **4. What is the difference between Testnet and Mainnet? When would you develop on each?**<br/>
  They represent different environments. The Testnet is the equivalent of a development enviornment, whilst the Mainnet is the production environment.
- I suppose I would rather write and test my code on the dev. environment before pushing it on the production.
+ I suppose I would rather write and test my code on the dev. environment before pushing it on the production.<br/>
  (I've heard that only gigachads test their code on prod). 
