@@ -23,5 +23,5 @@ pub fun main(): String {
 ```
 
 
-<img src="./day1img1.png" width="80%">
+<img src="./day1img1.png" width="100%">
 
